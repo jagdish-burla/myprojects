@@ -1,0 +1,13 @@
+/* Index_stylesheet.css */
+body
+   {
+    background-image: url("Photos/bg8.jpg");
+   }
+   .floating-box {
+                   width: 250px;
+                   height: 150px;
+                   margin: 10px;
+                   border: 1px solid #73AD21;
+                   float: left;
+                   background-color: dodgerblue;
+                 }

@@ -1,0 +1,13 @@
+<!DOCTYPE>
+<html>
+    <header>
+        <meta charset="UTF-8">
+    </header>
+    <title>Rapid_Xpress</title>
+    <body background="/photos/bg1.jpg">
+    <img src="Photos/Ride_Xpress_logo_web.jpg" alt="Ride Express logo" width="100" height="100">    
+    <p style="text-align:center"><strong><em>Welcome to Rapid xpress</em></strong></p>
+    <hr>
+    </body>
+
+</html>
